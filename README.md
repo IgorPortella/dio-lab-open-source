@@ -4,6 +4,18 @@
     <span> Contribuindo em um Projeto Open Source no GitHub</span>
 </h1>
 
+<h1>
+    <a href="https://www.dio.me/">
+     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
+    <span> Contribuindo em um Projeto Open Source no GitHub</span>
+</h1>
+
+## Sobre Mim
+Olá! Eu sou Igor Portella, um Engenheiro Mecânico apaixonado por tecnologia e open source. Tenho experiência em Python (avançado), C++ (avançado), VBA (intermediário) e SQL (básico), além de conhecimento em Pandas, NumPy e Matplotlib para análise de dados. Também sou proficiente em Power BI e no Pacote Office (avançado), e estou sempre aprendendo e contribuindo para projetos interessantes!
+
+## Habilidades
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+
 Repositório desenvolvido para fins didáticos, com a disponibilização de materiais de apoio e exercício prático para o lab **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/).
 
 [![Link do Lab](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e) 
